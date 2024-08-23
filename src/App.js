@@ -1,9 +1,7 @@
-
+import Tictactoe from "./components/Game/Tictactoe";
 function App() {
   return (
-    <div className="App">
-      <h1>Game</h1>
-    </div>
+    <Tictactoe/>
   );
 }
 
